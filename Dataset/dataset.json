@@ -1,0 +1,28 @@
+{
+  "datasets": [
+    {
+      "id": "science_facts",
+      "title": "Science Facts Collection",
+      "description": "100+ interesting science facts covering physics, chemistry, and biology. Perfect for curious minds.",
+      "category": "Education",
+      "file_size": "156 KB",
+      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/science_facts.json"
+    },
+    {
+      "id": "history_events",
+      "title": "Historical Events Database",
+      "description": "Major historical events from around the world with key details and dates.",
+      "category": "History",
+      "file_size": "230 KB",
+      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/history_events.json"
+    },
+    {
+      "id": "tech_terms",
+      "title": "Technology Glossary",
+      "description": "Comprehensive glossary of technology terms, programming concepts, and computer science basics.",
+      "category": "Technology",
+      "file_size": "180 KB",
+      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/tech_terms.json"
+    }
+  ]
+}
