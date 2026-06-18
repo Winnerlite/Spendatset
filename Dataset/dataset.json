@@ -1,12 +1,12 @@
 {
   "datasets": [
     {
-      "id": "science_facts",
-      "title": "Science Facts Collection",
-      "description": "100+ interesting science facts covering physics, chemistry, and biology. Perfect for curious minds.",
-      "category": "Education",
+      "id": "Online",
+      "title": "Making Money online  Collection",
+      "description": "100+ Money making ideas and howtos. Let Spencer help you choose the best making money niche.",
+      "category": "Money",
       "file_size": "156 KB",
-      "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/data/science_facts.json"
+      "download_url": "https://raw.githubusercontent.com/Winnerlite/Spendatset/refs/heads/main/Monneynichedatas.json"
     },
     {
       "id": "history_events",
